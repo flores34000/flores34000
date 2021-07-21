@@ -1,4 +1,7 @@
 ### Hi there, I'm Florence PEREZ 👋
+
+<img src="http://www.fullstackdeveloper.team/img/programming1.png" width="200" height="200">
+
 ## I am a self-taught fullstack developer 🤓
 
 ### Languages and Tools:
